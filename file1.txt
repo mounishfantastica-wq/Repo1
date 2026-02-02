@@ -1,0 +1,2 @@
+Hello, editing file1 in git-demo
+editing 2nd time in git-demo
